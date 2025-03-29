@@ -1,0 +1,12 @@
+{
+    "name": "akshay/sqldata",
+    "autoload": {
+        "psr-4": {
+            "Akshay\\Sqldata\\": "src/"
+        }
+    },
+    "require": {
+        "google/apiclient": "^2.18",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
